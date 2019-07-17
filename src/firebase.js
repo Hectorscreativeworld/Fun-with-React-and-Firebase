@@ -1,6 +1,6 @@
 import firebase from 'firebase'
 
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: 'AIzaSyBmigAJlnYDSumYY03dsNiZsKM1Mwo3N6U',
   authDomain: 'fun-food-friends-40ea4.firebaseapp.com',
   databaseURL: 'https://fun-food-friends-40ea4.firebaseio.com',
@@ -11,3 +11,5 @@ var firebaseConfig = {
 }
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig)
+
+export default firebase

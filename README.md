@@ -1,3 +1,5 @@
+I recreated this project because I wanted to learn more about React and firebase. It is an amazing tutorial I highly recommend it!!!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
